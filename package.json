@@ -1,0 +1,48 @@
+{
+  "name": "bscheckbox",
+  "version": "0.0.1",
+  "description": "An AngularJS bootstrap-checkbox directive.",
+  "filename": "bsCheckbox.min.js",
+  "main": "./dist/bsCheckbox.min.js",
+  "scripts": {
+    "test": "grunt test --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomtapia/bsCheckbox.git"
+  },
+  "engines": {
+    "node": ">= 4.5.0"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "bootstrap",
+    "checkbox",
+    "ui",
+    "component"
+  ],
+  "maintainers": [
+    {
+      "name": "Tomás Tapia",
+      "website": "https://www.kaisanetwork.net/"
+    }
+  ],
+  "author": "Tomás Tapia <ttapia@kaisanetwork.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomtapia/bsCheckbox/issues"
+  },
+  "homepage": "https://github.com/tomtapia/bsCheckbox#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-jscs": "^3.0.1",
+    "jit-grunt": "^0.10.0",
+    "jshint-stylish": "^2.2.1"
+  }
+}
