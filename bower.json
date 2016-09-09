@@ -1,0 +1,38 @@
+{
+  "name": "bsCheckbox",
+  "version": "0.0.1",
+  "description": "An AngularJS bootstrap-checkbox directive.",
+  "main": "./dist/bsCheckbox.min.js",
+  "authors": [
+    "Tomás Tapia <ttapia@kaisanetwork.net>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "directive",
+    "bootstrap",
+    "checkbox",
+    "ui",
+    "component"
+  ],
+  "homepage": "https://github.com/tomtapia/bsCheckbox",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "jquery": ">=1.9.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-checkbox": "^1.4.0"
+  }
+}

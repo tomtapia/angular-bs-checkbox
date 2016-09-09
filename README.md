@@ -1,5 +1,8 @@
 # bsCheckbox
 
+[![License](https://img.shields.io/npm/l/bootstrap-checkbox.svg)][license]
+[![Dependency Status](https://david-dm.org/tomtapia/bsCheckbox.svg)]
+
 An AngularJS [Bootstrap-checkbox](https://vsn4ik.github.io/bootstrap-checkbox/) directive.
 
 ## Usage

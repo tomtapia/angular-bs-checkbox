@@ -83,6 +83,14 @@ module.exports = function(grunt) {
         src: '<%= folders.src %>/<%= pkg.name %>.js',
         dest: '<%= folders.dist %>/<%= pkg.name %>.min.js'
       }
+    },
+
+    // Test settings
+    karma: {
+      unit: {
+        configFile: '<%= folders.test %>/karma.conf.js',
+        singleRun: true
+      }
     }
   });
 
@@ -92,6 +100,10 @@ module.exports = function(grunt) {
     'jshint',
     'jscs',
     'uglify'
+  ]);
+
+  grunt.registerTask('test', [
+    'karma'
   ]);
 
 };
