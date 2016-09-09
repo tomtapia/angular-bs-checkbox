@@ -1,4 +1,4 @@
-lib-cov
+# Files to ignore
 *.seed
 *.log
 *.csv
@@ -10,16 +10,13 @@ lib-cov
 *.swo
 .DS_Store
 .idea
+npm-debug.log
+template/**/*.js
 
+# Folders to ignore
 pids
 logs
 results
-# test coverage files
-.coverage/
-
 bower_components
 bower_components/**/*
 node_modules
-npm-debug.log
-
-template/**/*.js
