@@ -1,4 +1,4 @@
-# bsCheckbox
+# AngularJS bsCheckbox
 
 ![License](https://img.shields.io/npm/l/bootstrap-checkbox.svg)![Dependency Status](https://david-dm.org/tomtapia/bsCheckbox.svg)
 
