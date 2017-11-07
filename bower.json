@@ -1,8 +1,8 @@
 {
-  "name": "bsCheckbox",
+  "name": "angular-bs-checkbox",
   "version": "0.0.1",
   "description": "An AngularJS bootstrap-checkbox directive.",
-  "main": "./dist/bsCheckbox.min.js",
+  "main": "./dist/bscheckbox.min.js",
   "authors": [
     "Tomás Tapia <ttapia@kaisanetwork.net>"
   ],
@@ -16,7 +16,7 @@
     "ui",
     "component"
   ],
-  "homepage": "https://github.com/tomtapia/bsCheckbox",
+  "homepage": "https://github.com/tomtapia/angular-bs-checkbox",
   "ignore": [
     "node_modules",
     "bower_components",
