@@ -1,6 +1,6 @@
 {
   "name": "angular-bs-checkbox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An AngularJS bootstrap-checkbox directive.",
   "main": "./src/bscheckbox.js",
   "authors": [
